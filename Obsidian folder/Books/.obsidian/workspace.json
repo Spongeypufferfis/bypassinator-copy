@@ -11,10 +11,14 @@
             "id": "d2b966a4aa3585db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Step 1 The space of variations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Step 1 The space of variations"
             }
           },
           {
@@ -173,12 +177,16 @@
   },
   "active": "d2b966a4aa3585db",
   "lastOpenFiles": [
+    "Reality Transurfing.md",
+    "Step 1 The space of variations.md",
+    "Mental.md",
+    "Self improvement.md",
+    "NonFiction.md",
+    "Physical.md",
     "Books.md",
+    "History.md",
     "Classics.md",
     "Fiction.md",
-    "History.md",
-    "General Knowledge.md",
-    "NonFiction.md",
-    "Self improvement.md"
+    "General Knowledge.md"
   ]
 }
